@@ -41,4 +41,3 @@ The final project involved creating a game similar to Road Fighter. We implement
 
 
 
-If you have any questions or need further assistance, feel free to open an issue or contact us at [your-email@example.com](mailto:your-email@example.com).
