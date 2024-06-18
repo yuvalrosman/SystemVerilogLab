@@ -10,10 +10,7 @@ This repository contains lab projects completed as part of a System Verilog cour
   - [Component Integration in Quartus](#component-integration-in-quartus)
   - [FPGA Implementation](#fpga-implementation)
   - [Road Fighter Game](#road-fighter-game)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 System Verilog is a powerful hardware description and verification language used for designing and simulating electronic systems. This lab series provides hands-on experience with System Verilog, Quartus, and FPGA boards, culminating in the development of a simple game similar to Road Fighter.
