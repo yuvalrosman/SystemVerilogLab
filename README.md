@@ -40,7 +40,7 @@ In this lab, we programmed an FPGA board to run our System Verilog code. We veri
 The final project involved creating a game similar to Road Fighter. We implemented the game logic, graphics, and controls using System Verilog and ran it on an FPGA board.
 
 #### Road Fighter Game Screenshot
-![Road Fighter Game](images/road_fighter_game.png)
+![Road Fighter Game](images/road_fighter.jpg)
 
 
 
